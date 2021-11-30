@@ -1,4 +1,4 @@
-# Sistema Embarcado para detecção e alerta de atitudes de desatenção ao dirigir 
+# Sistema embarcado para detecção e alerta de atitudes de desatenção ao dirigir 
 
 
 O código utilizado para desenvolver o software em Python está disponível na pasta "Código" junto aos arquivos do algoritmo "haar_cascade_frontalface_xml" e dos pontos de referência faciais, separado em 7 arquivos comprimidos "shape_predictor_68_face_landmarks.dat"
