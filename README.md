@@ -1,4 +1,11 @@
 # TCC
+
 TCC 2: SISTEMA EMBARCADO PARA DETECÇÃO E ALERTA DE ATITUDES DE DESATENÇÃO AO DIRIGIR
 
-Os arquivos em .sml são as modelagens em 3D para realização do protótipo em Impressora 3D.
+O código utilizado para desenvolver o software em Python está disponível na pasta "Código"
+
+Os arquivos para imprimir o protótipo em 3D está disponível na pasta "Protótipo 3D"
+
+O fluxograma do projeto está disponível na pasta "Fluxograma"
+
+A demonstração do projeto está disponível no link: 
