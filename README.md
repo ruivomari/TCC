@@ -7,4 +7,4 @@ Os arquivos para imprimir o protótipo em 3D está disponível na pasta "Protót
 
 O fluxograma do projeto está disponível na pasta "Fluxograma"
 
-A demonstração do projeto está disponível no link do YouTube: 
+A demonstração do projeto está disponível no link do YouTube: https://www.youtube.com/watch?v=XZ-g7ids9qA
